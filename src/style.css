@@ -59,6 +59,18 @@ section{}
 .table-offset{
     padding:5vh;
 }
+.gold{
+    color:gold;
+}
+.silver{
+    color: silver;
+}
+.bronze{
+    color: #cd7f32;
+}
+.top10{
+    color: palegreen;
+}
 
 @media (max-width:1024px){
     h1{
